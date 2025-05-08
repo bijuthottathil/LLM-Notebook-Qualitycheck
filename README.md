@@ -5,9 +5,10 @@
 3) - Run using - ollama run llama2 
 
 
-  ![image](https://github.com/user-attachments/assets/1b3de912-a20d-44e9-8333-215285ccc8c8)
+      ![image](https://github.com/user-attachments/assets/1b3de912-a20d-44e9-8333-215285ccc8c8)
 
-  
+
+
 4) - I have spark running in docker. I opened Jupiter Notebook and added below code
 ![image](https://github.com/user-attachments/assets/c8ca34f6-2dd4-4539-8cae-9cf7220fc262)
 ![image](https://github.com/user-attachments/assets/cf6936c7-dc7c-413e-8c64-c5a24f6f6f8e)
