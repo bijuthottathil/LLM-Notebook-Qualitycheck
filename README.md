@@ -1,4 +1,5 @@
 # Spark notebooks quality check using Ollama LLM
+![image](https://github.com/user-attachments/assets/5df1a384-5573-4b0f-8e75-86cf36952912)
 
 
 1) - Install Ollama using - brew install ollama
