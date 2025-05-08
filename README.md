@@ -17,7 +17,7 @@
 ![image](https://github.com/user-attachments/assets/bff68b12-3e1d-4c61-a6af-42f3518e6a48)
 
 
-Please note down few important things
+Please note down few important point
 
 ![image](https://github.com/user-attachments/assets/1d28581e-446b-4915-97f6-cda37bddf709)
 
