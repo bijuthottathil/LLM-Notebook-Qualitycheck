@@ -27,7 +27,7 @@ Please note down few important point
 
 Steps for running jupiter notebook in Docker is given below
 
-1. Install Docker for Winoows/ Mac in your laptop (  I am using Mac)![image](https://github.com/user-attachments/assets/3341c6a5-d943-4110-800c-d2bb9552d23f)
+1. Install Docker for Windows/ Mac in your laptop (  I am using Mac)![image](https://github.com/user-attachments/assets/3341c6a5-d943-4110-800c-d2bb9552d23f)
 
 2.  I have provided docker-compose file in repository ![image](https://github.com/user-attachments/assets/3d051724-af75-451d-815f-bcf53cbbcd91)
 3.  In prompt execute command -  docker-compose up -d ![image](https://github.com/user-attachments/assets/d643eb7e-3bf6-4a4e-a0c4-ab616920de81)
